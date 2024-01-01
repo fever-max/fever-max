@@ -27,7 +27,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fever-max&layout=compact&theme=transparent)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=fever-max)](https://velog.io/@eungyeole) <a href="http://lovera.maxam.now.sh/">
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=fever-max)](https://velog.io/@fever-max) <a href="http://lovera.maxam.now.sh/">
 
 
 #
