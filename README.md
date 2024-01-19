@@ -14,7 +14,6 @@
 </div>
 
 <div>
-<img src="https://img.shields.io/badge/Spring-9cf?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-ff69b4?style=flat-square&logo=MongoDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
