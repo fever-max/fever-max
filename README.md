@@ -24,10 +24,10 @@
 
 <h2> 📌 About Me</h2>
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fever-max&layout=compact&theme=transparent)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=fever-max)](https://velog.io/@fever-max) <a href="http://lovera.maxam.now.sh/">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fever-max&show_icons=true)
 
 #
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffever-max%2Fhit-counter&count_bg=%2394AAFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=today&edge_flat=true)](https://hits.seeyoufarm.com)
